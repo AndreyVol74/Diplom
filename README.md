@@ -15,7 +15,15 @@ def coloring(image_path, num_colors=5):
 ![image](https://github.com/user-attachments/assets/0a4b7faf-6ac2-439e-9936-0ca888a32da9)
 
 Сопостовления ключевых точек на двух изображениях
+
 def ransac(image1_path, image2_path, ratio=0.75):
 
+![image](https://github.com/user-attachments/assets/79e5e929-6a05-4828-9c81-acbe980f1b72)
+
+Определение ключевых точек с помощью алгоритма Shift
+
+def image_method_SHIFT(image_path):
+
+![image](https://github.com/user-attachments/assets/1db687cb-40cf-4308-a7ad-77572af71ebe)
 
 
