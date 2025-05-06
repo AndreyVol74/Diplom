@@ -26,4 +26,12 @@ def image_method_SHIFT(image_path):
 
 ![image](https://github.com/user-attachments/assets/1db687cb-40cf-4308-a7ad-77572af71ebe)
 
+![image](https://github.com/user-attachments/assets/cd5edc82-7406-4cdd-a2f1-e2cf7577005d)
 
+Расчет прямой кинематики робота манипулятора dofbot 
+
+![image](https://github.com/user-attachments/assets/9a1074ba-109a-48a3-bbdc-b88e2fef014b)
+
+Математические расчеты 
+
+![image](https://github.com/user-attachments/assets/0e2c7af1-b37f-41ed-a735-955c69cae64f)
