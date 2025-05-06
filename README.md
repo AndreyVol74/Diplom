@@ -38,4 +38,4 @@ def image_method_SHIFT(image_path):
 
 ![image](https://github.com/user-attachments/assets/0e2c7af1-b37f-41ed-a735-955c69cae64f)
 
-
+Построили прямую из 3 точек
