@@ -1,4 +1,7 @@
-Функционал приложения приложение desktop по обработке изображения:
+Функционал приложения 
+
+Desktop по обработке изображения:
+
 ![image](https://github.com/user-attachments/assets/bbbe6023-3531-4dbb-9962-d9fbe28e7334)
 
     Функция def point_cloud(image_path):
